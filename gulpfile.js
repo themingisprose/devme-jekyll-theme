@@ -13,7 +13,7 @@ const del				= require('del');
  * Assets
  */
 let assets 			= 'assets/';
-let assetsScss		= assets +'scss/';
+let assetsScss		= '_sass/';
 let assetsJs		= assets +'js/';
 let nodeSrc			= 'node_modules/';
 
