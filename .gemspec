@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'devme-jekyll-theme'
-  s.version     = '0.1.1'
+  s.version     = '0.1.2'
   s.summary     = "Bootstrap Jekyll Theme"
   s.authors     = "Theming is Prose"
   s.email       = 'themingisprose@gmail.com'
