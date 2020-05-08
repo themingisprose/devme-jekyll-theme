@@ -32,7 +32,7 @@ sass:
   sass_dir: assets/css
 
 # Build settings
-# theme: devme-jekyll-theme
+theme: devme-jekyll-theme
 remote_theme: themingisprose/devme-jekyll-theme
 plugins:
   - jekyll-feed
